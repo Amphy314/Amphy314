@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amphy314
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in: Aeroespace, engineering, martial arts, programming
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NodeJS, Python, C.
+- 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me: Email:gleaodecastro@gmail.com 
 - 
 
